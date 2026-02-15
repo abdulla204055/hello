@@ -126,5 +126,4 @@ All tunables can be changed from your sketch before calling `begin()` (or update
 
 ---
 
-## License
-MIT (suggested). Replace with your preferred license.
+## License: N/A
